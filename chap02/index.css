@@ -1,0 +1,19 @@
+* {
+  border: 1px solid black;
+
+  font-family: "MesloLGS Nerd Font Mono";
+  font-size: 14px;
+}
+
+main {
+  justify-content: center;
+  display: flex;
+}
+
+header {
+  height: 10%;
+}
+
+footer {
+  height: 10%;
+}
